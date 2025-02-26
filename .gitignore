@@ -1,0 +1,7 @@
+__pycache__/
+.DS_Store
+.env
+*.pem
+staticfiles/
+dist/
+django_polls_gs377209.egg-info/
