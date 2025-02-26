@@ -3,11 +3,11 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-packages = ["django_polls_gs377209"]
+packages = ["django_polls_gs377209", "django_polls_gs377209.migrations"]
 
 [project]
 name = "django_polls_gs377209"
-version = "0.0.2"
+version = "0.0.3"
 dependencies = [
     "django>=5.1",
 ]
