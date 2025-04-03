@@ -7,7 +7,7 @@ packages = ["django_polls_gs377209", "django_polls_gs377209.migrations"]
 
 [project]
 name = "django_polls_gs377209"
-version = "0.0.4"
+version = "0.0.5"
 dependencies = [
     "django>=5.1",
 ]
